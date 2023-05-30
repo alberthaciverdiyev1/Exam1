@@ -1,0 +1,80 @@
+﻿@model List<Portfolio>
+
+@{
+    int count = 0;
+}
+
+<div class="col-lg-12 grid-margin stretch-card mx-auto">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Striped Table</h4>
+            <p class="card-description">
+                Add class <code>.table-striped</code>
+            </p>
+            <a asp-action="create" asp-area="Admin" asp-controller="Portfolio" type="button" class="btn btn-success">Create</a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                User
+                            </th>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                Setting
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (Portfolio item in Model)
+                        {
+                            count++;
+                            <tr>
+                                <td class="py-1">
+                                    @count
+                                </td>
+                                <td>
+                                    <img src="~/assets/img/@item.ImageUrl" alt="image">
+                                </td>
+                                <td>
+                                    @item.Name
+                                </td>
+                                <td>
+                                    <a asp-action="update" asp-area="admin" asp-controller="portfolio" asp-route-id="@item.Id" type="button" class="btn btn-warning">Update</a>
+                                    <a asp-action="delete" asp-area="admin" asp-controller="portfolio" asp-route-id="@item.Id" type="button" class="btn btn-danger">Delete</a>
+                                </td>
+                            </tr>
+
+
+                        }
+
+                    </tbody>
+                </table>
+
+                @if (ViewBag.Page >1)
+                {
+                    <a asp-action="index" asp-area="admin" asp-controller="portfolio" asp-route-page="@(ViewBag.Page-1)" type="button" class="btn btn-secondary">Previous</a>
+
+                }
+                @for (int i = 0; i < ViewBag.Total - 1; i++)
+                {
+
+                    <a asp-action="index" asp-area="admin" asp-controller="portfolio" asp-route-page="@(i+1)" type="button" class="btn btn-secondary @(i==ViewBag.Page-1?"disabled":"")">@(i + 1)</a>
+
+                }
+                @if (ViewBag.Page <ViewBag.Total-1)
+                {
+                        <a asp-action="index" asp-area="admin" asp-controller="portfolio" asp-route-page="@(ViewBag.Page+1)" type="button" class="btn btn-secondary">Next</a>
+
+                }
+            </div>
+        </div>
+    </div>
+</div>

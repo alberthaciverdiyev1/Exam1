@@ -1,0 +1,897 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Exam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Exam.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\adminAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\js\\template.js",
+      "PackagePath": "staticwebassets\\adminAssets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\adminAssets\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\adminAssets\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\adminAssets\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\adminAssets\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\adminAssets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\spinning.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\font-awesome-4.1.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome-4.1.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\209092e0-81ae-4b57-bae9-d067e9312321Ekran şəkli 2023-05-01 114258.png",
+      "PackagePath": "staticwebassets\\assets\\img\\209092e0-81ae-4b57-bae9-d067e9312321Ekran şəkli 2023-05-01 114258.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\321ffe47-fe76-41cf-9aa0-9275fefd920aslidephoto.png",
+      "PackagePath": "staticwebassets\\assets\\img\\321ffe47-fe76-41cf-9aa0-9275fefd920aslidephoto.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\3502fbce-1caf-43bf-b672-ac9598c89c46portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3502fbce-1caf-43bf-b672-ac9598c89c46portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\356d4b4c-35b9-4f08-9f53-02b200c67639portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\356d4b4c-35b9-4f08-9f53-02b200c67639portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\36fe57ca-8f79-47de-8c88-80765d4bd51aportfolio-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\36fe57ca-8f79-47de-8c88-80765d4bd51aportfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\3845e39a-83a0-4d11-b7da-8274a4fa40d01qyxjbdyc6la1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3845e39a-83a0-4d11-b7da-8274a4fa40d01qyxjbdyc6la1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\50f33cc0-3fd9-48e9-b981-300e2c917b8dCode-Academy.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\50f33cc0-3fd9-48e9-b981-300e2c917b8dCode-Academy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\572cb037-3eb2-498d-8ff7-214da99e7bc5blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\572cb037-3eb2-498d-8ff7-214da99e7bc5blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\658f2003-4363-4c75-bd8b-7c96fab74f2fhero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\658f2003-4363-4c75-bd8b-7c96fab74f2fhero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\755979e8-70d3-4e5a-add6-4f5257b2338eteam-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\755979e8-70d3-4e5a-add6-4f5257b2338eteam-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\75e8dc33-5b83-40d2-838b-5b44f2ee3df1blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\75e8dc33-5b83-40d2-838b-5b44f2ee3df1blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\7acaa102-ef64-4c51-b5b2-d2b6dc517943xezerrr.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\7acaa102-ef64-4c51-b5b2-d2b6dc517943xezerrr.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\a659e68c-eee6-44fe-88f4-4daf0ab51ce5portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\a659e68c-eee6-44fe-88f4-4daf0ab51ce5portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\a9bb5b97-6dc3-427b-b3f4-62ef8c96d2c9blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\a9bb5b97-6dc3-427b-b3f4-62ef8c96d2c9blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\b263587c-5aac-403a-800b-22a0a030457fteam-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b263587c-5aac-403a-800b-22a0a030457fteam-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\b53ad648-ce92-4ed3-bd61-d47402978767portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b53ad648-ce92-4ed3-bd61-d47402978767portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\bdf57bcb-27e9-4ab8-a87d-9d9daa9f52c81qyxjbdyc6la1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bdf57bcb-27e9-4ab8-a87d-9d9daa9f52c81qyxjbdyc6la1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\ca09cb83-517d-41ec-9ae1-c1823211f59bteam-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ca09cb83-517d-41ec-9ae1-c1823211f59bteam-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\d0caf857-6add-4a29-a590-d3ed817cf0eamustang_by_anubis_noise_d118opg-fullview.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\d0caf857-6add-4a29-a590-d3ed817cf0eamustang_by_anubis_noise_d118opg-fullview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\e1e69a70-029c-47fc-ad62-7436007a60a0portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\e1e69a70-029c-47fc-ad62-7436007a60a0portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\team1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\img\\team2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\plugins\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\plugins\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\assets\\plugins\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r215.13\\Desktop\\ExamR\\Exam\\Exam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Exam.props",
+      "PackagePath": "build\\Exam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Exam.props",
+      "PackagePath": "buildMultiTargeting\\Exam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Exam.props",
+      "PackagePath": "buildTransitive\\Exam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

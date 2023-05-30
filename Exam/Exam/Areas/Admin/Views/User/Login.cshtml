@@ -1,0 +1,36 @@
+﻿@model LoginVM
+<div class="col-md-6 grid-margin stretch-card mx-auto">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description">
+                Basic form layout
+            </p>
+            <form method="post" class="forms-sample">
+
+                <div class="form-group">
+                    <label for="user">Username</label>
+                    <input asp-for="UsernameOrEmail" class="form-control" id="user" placeholder="UsernameOrEmail">
+                    <span asp-validation-for="UsernameOrEmail"></span>
+
+
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Password</label>
+                        <input asp-for="Password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                        <span asp-validation-for="Password"></span>
+
+                    </div>
+                    <div class="form-check form-check-flat form-check-primary">
+                        <label class="form-check-label">
+                            <input asp-for="RememberMe" class="form-check-input">
+                            Remember me
+                            <i class="input-helper"></i>
+                        </label>
+                    </div></div>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

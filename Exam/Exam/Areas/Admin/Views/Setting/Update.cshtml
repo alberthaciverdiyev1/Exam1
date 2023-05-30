@@ -1,0 +1,26 @@
+﻿@model Setting
+
+
+<div class="col-md-6 grid-margin stretch-card mx-auto">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description">
+                Basic form layout
+            </p>
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+
+                <p>@Model.Key</p>
+                
+                <div class="form-group">
+                    <label for="Value">Value</label>
+                    <input asp-for="Value" class="form-control" id="@Model.Value">
+                </div>
+               
+
+                <button type="submit" class="btn btn-primary mr-2">Update</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

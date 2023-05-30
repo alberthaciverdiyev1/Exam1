@@ -1,0 +1,29 @@
+﻿
+@model Portfolio
+
+
+<div class="col-md-6 grid-margin stretch-card mx-auto">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description">
+                Basic form layout
+            </p>
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+              
+               
+                <div class="form-group">
+                    <label for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" id="Name" placeholder="Name">
+                </div>
+                <div class="form-group">
+                    <label for="Photo">Photo</label>
+                    <input asp-for="Photo" class="form-control" id="Photo">
+                </div>
+               <div asp-validation-summary="ModelOnly"></div>
+                <button type="submit" class="btn btn-primary mr-2">Create</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
